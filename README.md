@@ -36,3 +36,5 @@ MazeGraph.java~~~~Builds the Graph and implements numVerts() and adjacents()
 MazeDFS.java~~~~~~Finds a random path through a graph and returns the path in the form of an int[]
 Graph.java~~~~~~~~The Graph interface
 MazeGen.java~~~~~~Generates the maze in the form of an int[][]
+
+
